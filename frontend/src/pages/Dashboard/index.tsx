@@ -19,8 +19,6 @@ const Dashboard = () => {
                         <h5>Taxa de sucesso</h5>
                         <DonutChart/>
                     </div>
-
-
                 </div>
                 <div className="py-3">
                     <h2 className="text-primary"> Todas vendas</h2>
